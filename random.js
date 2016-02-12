@@ -20,19 +20,19 @@ $(function(){
 
 function randomise() {
 
-	$('.random').animate({
-		opacity: 0,
-	}, 0, function() {
-	});
+    $('.random').animate({
+        opacity: 0,
+    }, 0, function() {
+    });
 
-	document.querySelector('#array1').innerHTML = getRandomArrayItem(lists['mediums'][$('#mediums').val()]['data']);
-	document.querySelector('#array2').innerHTML = getRandomArrayItem(lists['verbs'][$('#verbs').val()]['data']);
-	document.querySelector('#array3').innerHTML = getRandomArrayItem(lists['subjects'][$('#subjects').val()]['data']);
+    document.querySelector('#array1').innerHTML = getRandomArrayItem(lists['mediums'][$('#mediums').val()]['data']);
+    document.querySelector('#array2').innerHTML = getRandomArrayItem(lists['verbs'][$('#verbs').val()]['data']);
+    document.querySelector('#array3').innerHTML = getRandomArrayItem(lists['subjects'][$('#subjects').val()]['data']);
 
-	$('.random').animate({
-		opacity: 1,
-	}, 500, function() {
-	});
+    $('.random').animate({
+        opacity: 1,
+    }, 500, function() {
+    });
 
 };
 

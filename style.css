@@ -34,7 +34,7 @@ table {
 
 
 body {
-  font-family: "Lato", Verdana, Geneva, sans-serif;
+  font-family: "Proxima Nova", Verdana, Geneva, sans-serif;
   font-weight: 300;
   color: #3c3c3d;
   font-size: 1.5rem;
@@ -111,18 +111,18 @@ ol, ul {
   margin-left: 21px; }
 
 .container {
-	padding-top: 60px;
-	margin: 0 auto;
-	text-align: center;
+  padding-top: 60px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .container ul {
-	margin-left: 0;
+  margin-left: 0;
 }
 
 .container li {
-	font-size: 50px;
-	margin-right: 8px;
+  font-size: 50px;
+  margin-right: 8px;
 }
 
 ol {
@@ -134,53 +134,53 @@ ul {
 }
 
 ul.random, ul.random li {
-	display: inline;
+  display: inline;
 }
 
 li.result {
-	font-weight: 700;
+  font-weight: 700;
 }
 
 li span {
-	color: #ddd;
+  color: #ddd;
 }
 
 footer {
-	color: #777;
-	text-align: center;
-	font-size: 15px;
-	width: 100%;
-	padding: 10px 0;
-	position: absolute;
-	bottom: 0;
-	background-color: #eee;
+  color: #777;
+  text-align: center;
+  font-size: 15px;
+  width: 100%;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  background-color: #eee;
 }
 
 footer a, footer a:visited {
-	color: #6397e5;
-	text-decoration: none;
-	border-bottom: 1px dotted #999;
+  color: #6397e5;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
 }
 
 .button {
   display: block;
-	margin: 50px auto 0 auto;
-	background-color: #fff;
-	color: #555;
-	border: 1px solid #ccc;
-	box-shadow: 0px 2px 4px #eee;
-	border-radius: 7px;
-	padding: 10px;
-	font-size: 18px;
+  margin: 50px auto 0 auto;
+  background-color: #fff;
+  color: #555;
+  border: 1px solid #ccc;
+  box-shadow: 0px 2px 4px #eee;
+  border-radius: 7px;
+  padding: 10px;
+  font-size: 18px;
     -webkit-transition: all .3s;
     transition: all .3s;
 }
 
 .button:hover {
-	background-color: #6397e5;
-	border: 1px solid #6397e5;
-	color: #fff;
-	box-shadow: 0px 0px 0px #eee;
+  background-color: #00aaa5;
+  border: 1px solid #00aaa5;
+  color: #fff;
+  box-shadow: 0px 0px 0px #eee;
   cursor: pointer;
 }
 
