@@ -11,7 +11,7 @@ var lists = {
 
     mediums: [
         {   name: 'random',
-            data: ['a student', 'an artist', 'a photographer', 'a dancer', 'an actor', 'a banker', 'a magician', 'a doctor', 'a lawyer', 'a granny','the president', 'a Canadian', 'a Northerner', 'a carnivore', 'singer-songwriters', 'a policeman', 'Americans']
+            data: ['the president', 'a Canadian', 'a Northerner', 'a carnivore', 'an farmer', 'a boxer','a mermaid', 'a gnome', 'a barista', 'the Queen', 'a detective', 'Heisenberg', 'David Beckham', 'a puppy', 'a martian', 'a rubber fetishist', 'a school teacher', 'a magician', 'a doctor', 'a lawyer']
         },
         {   name: 'family',
             data: ['aunties', 'uncles', 'grandpas', 'grandmas', 'sisters', 'brothers', 'mums', 'dads']
@@ -23,7 +23,7 @@ var lists = {
     verbs: [
         {
             name: 'random',
-            data: ['sitting on the loo', 'tearing up the dancefloor', 'working in the mines', 'hungry']
+            data: ['sitting on the loo', 'tearing up the dancefloor', 'working in the mines', 'hungry', 'milking the cows', 'exercising', 'swimming the channel', 'mooching about the kitchen', 'grinding my coffee beans', 'making a speech', 'driving to a crime scene', 'cookin meth', 'helping an old lady across the road', 'eating food', 'invading the earth', 'zipping up my body suit', 'reading a magazine']
         },
         {
             name: 'good',
@@ -37,7 +37,7 @@ var lists = {
     subjects: [
         {
             name: 'random',
-            data: ['cuddle', 'be warned of danger', 'eat wings']
+            data: ['cuddle','take a selfie', 'be warned of danger','eat wings', 'cycle', 'listen to music by eminem', 'meet my soulmate', 'eat cookies', 'have my clothes ironed', 'check my online banking', 'drink milkshake', 'avoid the police', 'look good', 'invite my friends', 'check my texts', 'take a shower', 'sing a song']
         },
         {
             name: 'fruit',
